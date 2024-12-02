@@ -4,7 +4,7 @@
 
 ---
 
-# **Create Post Application**
+# **CRUD Post Application**
 
 This is a simple web application that allows users to create, edit, and view posts. The application is built using modern web technologies and adheres to best practices for development.
 
@@ -12,7 +12,7 @@ This is a simple web application that allows users to create, edit, and view pos
 
 ## **Live Demo**
 The application is live and accessible at:  
-[**Create Post Application - Live Demo**](https://synapsis-assessment-delta.vercel.app/)  
+[**CRUD Post Application - Live Demo**](https://synapsis-assessment-delta.vercel.app/)  
 **My Access Token for welcome modal**: 343329618dea15236592e1c9f71418a4e796164fcde4813a2aaa71062431b21e  
 
 ---

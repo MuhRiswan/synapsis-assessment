@@ -1,4 +1,9 @@
-# **Create Post Application**
+# **synapsis-assessment**
+**Nama**: M. Riswan  
+**Email**: m.riswan0921@gmail.com  
+
+
+# **CRUD Post Application**
 
 This is a simple web application that allows users to create, edit, and view posts. The application is built using modern web technologies and adheres to best practices for development.
 
@@ -6,8 +11,8 @@ This is a simple web application that allows users to create, edit, and view pos
 
 ## **Live Demo**
 The application is live and accessible at:  
-[**Create Post Application - Live Demo**]([https://your-vercel-app-url.vercel.app](https://synapsis-assessment-delta.vercel.app/))  
-https://synapsis-assessment-delta.vercel.app/
+[**CRUD Post Application - Live Demo**](https://synapsis-assessment-delta.vercel.app/)  
+
 ---
 
 ## **Features**

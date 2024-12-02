@@ -7,7 +7,7 @@ This is a simple web application that allows users to create, edit, and view pos
 ## **Live Demo**
 The application is live and accessible at:  
 [**Create Post Application - Live Demo**]([https://your-vercel-app-url.vercel.app](https://synapsis-assessment-delta.vercel.app/))  
-
+https://synapsis-assessment-delta.vercel.app/
 ---
 
 ## **Features**
@@ -28,9 +28,3 @@ The application is live and accessible at:
 
 ---
 
-## **Installation**
-
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
